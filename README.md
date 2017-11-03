@@ -1,5 +1,6 @@
 # BME280
 **This project is still under development**
+
 This is a sub project in which we will try to get the temperature, pressure and humidity using a BME280 implemented in the Weather Click from MikroE. 
 It's part of the big project which consist of getting these outputs and send them over using a MQTT protocol and then have a feedback.
 
